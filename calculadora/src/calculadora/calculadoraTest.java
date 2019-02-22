@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class calculadoraTest {
-
+	//ejemplo
 	@Test
 	public void testSuma() {
 		Calculadora dora = new Calculadora(20, 10);
