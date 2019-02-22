@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class Ejercicio1Test {
-
+	//EE
 	@Test
 	public void testResta() {
 		Ejercicio1 dora = new Ejercicio1 (50,10);
